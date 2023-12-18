@@ -405,7 +405,7 @@ nav .fa-solid{
 @media only screen and (max-width:600px)
 {
     #header{
-        background-image: url(../images/mobilewalli.png);
+        background-image: url(../images/walli.png);
     }
     #header .about-text{
         margin-top: 140%;
